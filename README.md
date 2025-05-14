@@ -83,6 +83,5 @@ CRC Explorer includes innovative features not typically covered in standard R co
 
 Sepehr Maleki  
 sepehr.maleki@bilkent.edu.tr  
-ID: 22401358  
 Bilkent University, Turkey
 
