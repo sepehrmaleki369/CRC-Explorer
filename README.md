@@ -86,6 +86,3 @@ sepehr.maleki@bilkent.edu.tr
 ID: 22401358  
 Bilkent University, Turkey
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
