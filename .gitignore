@@ -1,0 +1,21 @@
+# R specific files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# R package files
+*.Rproj
+*.Rproj.user
+
+# Temporary files
+*.swp
+*~
+
+# Log files
+*.log 
