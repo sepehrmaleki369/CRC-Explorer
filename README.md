@@ -4,7 +4,7 @@
 
 CRC Explorer is an interactive web-based tool designed to analyze gene expression patterns of colorectal cancer biomarkers across different patient cohorts. Built using R Shiny, it enables researchers to visualize biomarker expression patterns, perform survival analyses, and identify correlations between multiple biomarkers in an intuitive interface.
 
-![CRC Explorer Interface](screenshots/interface.png)
+![CRC Explorer Interface](www/interface.png)
 
 ## Key Features
 
